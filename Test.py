@@ -1,2 +1,2 @@
-from sys import version 
-print(version)
+ import datetime 
+datetime.date.today() 
