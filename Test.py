@@ -1,1 +1,2 @@
-print("hello")
+from sys import version 
+print(version)
