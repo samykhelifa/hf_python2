@@ -10,7 +10,7 @@ found['o'] = 0
 found['u'] = 0  
 
 for letter in word:     
-  if letter in vowels:         f
+  if letter in vowels:         
     found[letter] += 1  
 
 for k, v in  found :     
