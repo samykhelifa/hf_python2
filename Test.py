@@ -11,7 +11,7 @@ found['u'] = 0
 
 for letter in word:     
   if letter in vowels:         f
-   found[letter] += 1  
+    found[letter] += 1  
 
 for k, v in  found :     
   print(k, 'was found', v, 'time(s).')
