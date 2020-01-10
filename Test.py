@@ -17,4 +17,4 @@ for letter in word:
     found[letter] += 1  
 
 for k in  found :     
-  print(k, 'was found', found[k], 'time(s).')
+  print(k, 'was found', found[k], 'time(s).',45)
