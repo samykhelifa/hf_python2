@@ -9,8 +9,8 @@ found = {}
 #found['o'] = 0 
 #found['u'] = 0  
 
-for vowel in vowels:
-  found[vowel]=0
+#for vowel in vowels:
+  #found[vowel]=0
 
 for letter in word:     
   if letter in vowels:         
